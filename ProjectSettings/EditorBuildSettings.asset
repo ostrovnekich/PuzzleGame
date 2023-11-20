@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1225bd05b998e864e8d34c7128910388
+  - enabled: 1
+    path: Assets/Scenes/LVL1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/LVL2.unity
+    guid: f3f91139da5fff04abaae7eaf799c6dc
+  - enabled: 1
+    path: Assets/Scenes/SelectLVL1.unity
+    guid: 37e909e20f9c8a748a129a1c6224da49
+  - enabled: 1
+    path: Assets/Scenes/SignIn.unity
+    guid: a524e01c60ddff6418181269ccc5e200
+  - enabled: 1
+    path: Assets/Scenes/SelectLVL2.unity
+    guid: 8733d9ea673154d4e82ba33bc4f0cf81
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 19b9097503a730846a68eaeae9337c26
+  - enabled: 1
+    path: Assets/Scenes/MoveLose2.unity
+    guid: b28326c77f2895a41b179a1972c6c152
+  - enabled: 1
+    path: Assets/Scenes/SignUp.unity
+    guid: 03d9bffdcf8548940b5662b2d714e5a4
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: d6cb21ed0e8792b489454aff3cc6db04
+  - enabled: 1
+    path: Assets/Scenes/MoveLose.unity
+    guid: 791190700e5c6344dbeddc5ed37dcf71
+  - enabled: 1
+    path: Assets/Scenes/WinScreen2.unity
+    guid: a1a7461da1397d142a7c3954c02fff9b
+  - enabled: 1
+    path: Assets/Scenes/LoseScreen2.unity
+    guid: b996eb84656a03645bce8888df212362
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
